@@ -52,7 +52,7 @@ header {
 .hero {
     display:flex;
     flex-direction:column;
-    background:royal-blue;
+    background:red;
     height:70vh;
     justify-content:center;
     align-items:center;
